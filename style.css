@@ -1,0 +1,113 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 2600px;
+    width: 1300px;
+}
+.topbar{
+    height: 50px;
+}
+p{
+    font-size: 14pt;
+    text-align: center;
+}
+.list{
+    list-style: none;
+    float: right;
+    padding-left: 50px;
+    font-weight: bold;
+}
+#hello{
+    font-size: xx-large;
+    color: darkblue;
+}
+#name{
+    font-size: xx-large;
+    color: rgb(0, 178, 248);
+}
+.anchor{
+    color: rgb(255, 255, 255);
+    background-color:skyblue;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.sectionone{
+    float:left;
+    width: 40%;
+    padding-left: 7%;
+    margin-right: 0pc;
+}
+.sectionone img{
+    width: 100%;
+}
+.topsite{
+    margin-right: 0px;
+    padding-bottom: 600px;
+}
+h2{
+    font-size: large;
+    color: rgb(0, 0, 255);
+    font-weight: bolder;
+}
+#latest{
+    color: rgb(255, 0, 149);
+}
+.project{
+    float: right;
+    text-align: center;
+    box-shadow: 1px 5px 20px gray;
+    width: 374px;
+    height: 370PX;
+    border-radius: 20px;
+    margin-right: 30px;
+   
+}
+.projectpic{
+    width: 100%
+}
+.wproject{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.wps{
+    height: 450;
+    padding-bottom: 500px;
+}
+.wps p{
+    font-size:unset
+}
+.backgp{
+    background-image: url(photos/Group_33094_1.png);
+    height: 200px;
+    width: 800px;
+    background-size: 800px 200px;
+    margin: 0px 250px;
+}
+.wc{
+    float: left;
+    margin-top: 70px;
+}
+#wi{
+    font-size: 50px;
+    color: white;
+    margin-left: 80px;
+    margin-right: 250px;
+}
+#lc{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color:palevioletred;
+    border: tomato;
+    border-radius: 5px;
+}
+.bottom{
+    margin-top: 80px;
+    text-align: center;
+}
+#connect{
+    color: lightseagreen;
+}
+#hell{
+    color: grey;
+}
